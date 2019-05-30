@@ -1,0 +1,33 @@
+nav {
+display: inline-block;
+border-style: dashed solid;
+border-width: 2px;
+border-color: darksalmon;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+li {
+    font-family: 'Shadows Into Light', cursive;
+    color: goldenrod;
+    text-decoration: none;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    color: brown;
+    background-color: whitesmoke;
+    text-align: left;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+p {
+    text-indent: 40px;
+    font-family: 'raleway', cursive;
+}
